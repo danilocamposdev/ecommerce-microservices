@@ -200,3 +200,8 @@ tags
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/java,maven,visualstudiocode,intellij,vim
+
+.settings/
+.project
+.classpath
+.factorypath
