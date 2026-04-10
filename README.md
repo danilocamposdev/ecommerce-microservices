@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=springboot" alt="Spring Boot">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger UI">
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim">
 </p>
 
@@ -33,6 +34,7 @@ O projeto é dividido em dois serviços principais que se comunicam de forma des
 - **Persistência:** Spring Data JPA / Hibernate
 - **Banco de Dados:** H2 Database (In-memory)
 - **Gerenciador de Dependências:** Maven
+- **Documentação:** Swagger UI
 - **Ambiente de Desenvolvimento:** Neovim (Linux)
 
 ---
